@@ -1,5 +1,7 @@
 # README
 
+This code is part of a tutorial found in this blog post: https://mugenruby.com/rails/2023/01/30/building-a-commitment-calculator-service-with-tdd/
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
